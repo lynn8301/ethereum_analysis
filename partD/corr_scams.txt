@@ -1,0 +1,1 @@
+[[["Phishing", "Offline"], 9422], [["Phishing", "Suspended"], 11], [["Fake ICO", "Offline"], 121], [["Phishing", "Inactive"], 21], [["Scamming", "Active"], 86943], [["Scamming", "Offline"], 28056], [["Phishing", "Active"], 2965], [["Scamming", "Suspended"], 56]]
