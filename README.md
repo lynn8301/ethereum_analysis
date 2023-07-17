@@ -112,26 +112,26 @@ address                                     bytecode                            
 - status: If the scam is currently active, inactive or has been taken offline
 
 ```json
-0x11c058c3efbf53939fb6872b09a2b5cf2410a1e2c3f3c867664e43a626d878c0: {
-    id: 81,
-    name: "myetherwallet.us",
-    url: "http://myetherwallet.us",
-    coin: "ETH",
-    category: "Phishing",
-    subcategory: "MyEtherWallet",
-    description: "did not 404.,MEW Deployed",
-    addresses: [
+"0x11c058c3efbf53939fb6872b09a2b5cf2410a1e2c3f3c867664e43a626d878c0": {
+    "id": 81,
+    "name": "myetherwallet.us",
+    "url": "http://myetherwallet.us",
+    "coin": "ETH",
+    "category": "Phishing",
+    "subcategory": "MyEtherWallet",
+    "description": "did not 404.,MEW Deployed",
+    "addresses": [
         "0x11c058c3efbf53939fb6872b09a2b5cf2410a1e2c3f3c867664e43a626d878c0",
         "0x2dfe2e0522cc1f050edcc7a05213bb55bbb36884ec9468fc39eccc013c65b5e4",
         "0x1c6e3348a7ea72ffe6a384e51bd1f36ac1bcb4264f461889a318a3bb2251bf19"
     ],
-    reporter: "MyCrypto",
-    ip: "198.54.117.200",
-    nameservers: [
+    "reporter": "MyCrypto",
+    "ip": "198.54.117.200",
+    "nameservers": [
         "dns102.registrar-servers.com",
         "dns101.registrar-servers.com"
     ],
-    status: "Offline"
+    "status": "Offline"
 }
 ```
 
